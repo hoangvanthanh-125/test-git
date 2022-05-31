@@ -4,8 +4,9 @@ function Test(props) {
   return (
     <div>
       hello
+      đây là nhanh 1
     </div>
   );
 }
 
-export default test;
+export default Test;
